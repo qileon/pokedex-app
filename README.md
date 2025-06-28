@@ -1,4 +1,4 @@
-![{8EF4491A-03D6-418E-904D-88B5B573C294}](https://github.com/user-attachments/assets/dd726fd9-80a8-4afe-8d8d-204a57a28a10)# 🔴 Pokédex App
+# 🔴 Pokédex App
 
 <div align="center">
   <img src="https://img.shields.io/badge/version-1.0.0-blue.svg" alt="Version">
@@ -12,12 +12,10 @@ A modern and user-friendly Pokédex app. Search for any Pokémon, view their det
 
 ## 📸 Screenshots
 
-```
 ![{A95FD581-E0BF-4B4D-A915-23327FF7AFCC}](https://github.com/user-attachments/assets/e9ef6395-e2a5-456f-a437-b6a6ad2f3497)
 ![{8723611F-C36C-4FDD-A46D-F2A797A751BA}](https://github.com/user-attachments/assets/130d3ebf-9a72-49f5-8cc1-dee6947710c7)
 ![{8EF4491A-03D6-418E-904D-88B5B573C294}](https://github.com/user-attachments/assets/97ff372c-185e-4a2a-b152-d9eb0b478fa2)
 
-```
 
 ## ✨ Features
 
@@ -278,29 +276,6 @@ function buildEvolutionTree(current, level = 0) {
 * Graceful fallback for network issues.
 * Invalid names are fixed with fuzzy logic.
 
-## 🚀 Roadmap
-
-### v1.1.0
-
-* [ ] Favorite Pokémon list
-* [ ] Pokémon comparison feature
-* [ ] Move/attack details
-* [ ] Offline support via service workers
-
-### v1.2.0
-
-* [ ] Team builder (up to 6 Pokémon)
-* [ ] Shiny hunt tracker
-* [ ] Advanced filtering (type, gen, stats)
-* [ ] Export/import teams
-
-### v2.0.0
-
-* [ ] Multilingual support
-* [ ] Battle calculator
-* [ ] Pokédex completion checklist
-* [ ] Social/team sharing options
-
 ## 🐛 Known Limitations
 
 ### API Dependency
@@ -313,17 +288,12 @@ function buildEvolutionTree(current, level = 0) {
 * Some older-gen Pokémon lack animated sprites
 * Not all forms/variants are available
 
-### Browser Issues
-
-* IE11 not supported (ES6+ required)
-* Safari <12 may have minor style issues
-
 ## 🤝 Contributing
 
 ### Development Setup
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/pokedex-app.git
+git clone https://github.com/qileon/pokedex-app.git
 cd pokedex-app
 git checkout -b feature/new-feature
 npm start
@@ -384,8 +354,9 @@ This project is licensed under the **MIT License**.
 **Owner:** [@qileon](https://github.com/qileon)
 **Project:** [github.com/qileon/pokedex-app](https://github.com/qileon/pokedex-app)
 
-* Bugs? Open an [issue](https://github.com/qileon/pokedex-app/issues)
-* Suggestions? Start a [discussion](https://github.com/qileon/pokedex-app/discussions)
+* Found a bug? Open an [issue](https://github.com/qileon/pokedex-app/issues)
+* Have an idea or suggestion? Start a [discussion](https://github.com/qileon/pokedex-app/discussions)
+* (P.S. I know it's not the most professional thing, but to be honest, it's more fun to keep building on existing projects)
 
 <div align="center">
   <p><strong>⭐ If you like the project, leave a star!</strong></p>
