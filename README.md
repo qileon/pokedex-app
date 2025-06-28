@@ -33,7 +33,6 @@ A modern and user-friendly Pokédex app. Search for any Pokémon, view their det
 
 * Toggle between **normal/shiny** sprites to compare color variants.
 * Switch between **static** (non-moving) and **animated** sprites.
-* Shiny Pokémon are highlighted with a ✨ sparkle effect.
 * The UI is fully responsive and works on all screen sizes.
 * Dark theme for comfortable browsing at night.
 
