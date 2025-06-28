@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/Electron-37.0.0-blue.svg" alt="Electron">
 </div>
 
+
 A modern and user-friendly Pokédex app. Search for any Pokémon, view their details, and explore evolution chains. Runs both in web browsers and as a desktop application.
 
 ## 📸 Screenshots
