@@ -110,7 +110,6 @@ pokedex-app/
 ├── index.html           # Main HTML file
 ├── main.js              # Electron main process
 ├── package.json         # Project configuration
-├── package-lock.json    # Dependency lock
 └── README.md            # This file
 ```
 
